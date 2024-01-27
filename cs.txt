@@ -1,0 +1,67 @@
+CS100,4,Sathyanaraya Raghavachary,Tue;Thu,Explorations in Computing
+CS102,2,Mohammad Reza Rajati,Tue;Thu,Fundamentals of Computation
+CS103,4,Mark Redekopp,Tue;Thu,Introduction to Programming
+CS104,4,Andrew Goodney,Tue;Thu,Data Structures and Object Oriented Design
+CS170,4,Victor Adamchik,Tue;Thu,Discrete Methods in Computer Science
+CS201,4,Marco Papa,Mon;Wed,Principles of Software Development
+CS270,4,David Kempe,Tue;Thu,Introduction to Algorithms and Theory of Computing
+CS310,4,Chao Wang,Mon;Wed,Software Engineering
+CS350,4,Tanya Ryutov,Friday,Introduction to Operating Systems
+CS353,4,William Cheng,Tue;Thu,Introduction to Internetworking
+CS356,4,Marco Paolieri,Tue;Thu,Introduction to Computer Systems
+CS360,4,Sven Koenig,Tue;Thu,Introduction to Artificial Intelligence
+CS368,4,Allen Almasi,Tuesday,Programming Graphical User Interfaces
+CS380,4,Clark Kromenaker,Tue;Thu,Video Game Programming
+CS401,4,Victor Adamchik,Mon;Wed,Capstone: Design and Construction of Large Software Systems
+CS402,4,William Cheng,Mon;Wed,Operating Systems
+CS420,4,Andrew Nealen,Tuesday,Computer Graphics
+CS426,4,Andrew Nealen,Wednesday,Game Prototyping
+CS430,4,Jelena Mirkovic,Mon;Wed,Introduction to Computer and Network Security
+CS435,4,Sanjay Madhav,Tue;Thu,Professional C++
+CS445,4,Heather Culbertson,Tue;Thu,Introduction to Robotics
+CS450,4,Ali Zahid,Tue;Thu,Introduction to Computer Networks
+CS452,4,Viktor Prasanna,Tue;Thu,Parallel and Distributed Computation
+CS454,4,Shahin Nazarian,Mon;Wed,Introduction to System-on-Chip
+CS455,4,Claire Bono,Tue;Thu,Introduction to Programming Systems Design
+CS457,4,Gandhi Puvvada,Tue;Thu,Computer Systems Organization
+CS458,4,Steven Heilman,MWF,Numerical Methods
+CS461,4,Bistra Dilkina,Mon;Wed,Artificial Intelligence for Sustainable Development
+CS467,4,Mohammad Reza Rajati,Tue;Thu,Introduction to Machine Learning
+CS491,4,Scott Easley,Thursday,Final Game Project
+CS495,2,Vahe Peroomian,TBA,Senior Project
+CS499,2,Mukund Raghothaman,Mon;Wed,Special Topics
+CS505,3,Remigijus Mikulevicius,MWF,Applied Probability
+CS513,4,Jyotirmoy Deshmukh,Monday,Autonomous Cyber-Physical Systems
+CS522,4,Artjoms Kovalovs,Monday,Game Engine Development
+CS526,4,Scott Easley,Tuesday,Advanced Mobile Devices and Game Consoles
+CS529,4,Andrew Nealen,Thursday,Advanced Game Projects
+CS530,4,Clifford Neuman,Friday,Security Systems
+CS536,3,Sima Parisay,Wednesday,Linear Programming and Extensions
+CS544,4,Ron Artstein,Tue;Thu,Applied Natural Language Processing
+CS551,4,John Heidemann,Mon;Wed,Computer Networking
+CS554,4,Paul Bogdan,Mon;Wed,Cyber-Physical Systems: A Computing Perspective
+CS557,4,John Paul Walters,Tue;Thu,Computer Systems Architecture
+CS561,4,Wei-Min Shen,Wednesday,Foundations of Artificial Intelligence
+CS563,4,Jay Pujara,Mon;Wed,Building Knowledge Graphs
+CS567,4,Vatsal Sharan,Thursday,Machine Learning
+CS570,4,Shahriar Shamsian,Monday,Analysis of Algorithms
+CS571,4,Marco Papa,Tue;Thu,Web Technologies
+CS572,4,Ellis Horowitz,Tue;Thu,Information Retrieval and Web Search Engines
+CS576,4,Parag Havaldar,Monday,Multimedia Systems Design
+CS580,4,Ulrich Neumann,Tue;Thu,3-D Graphics and Rendering
+CS585,4,Sathyanaraya Raghavachary,Tuesday,Database Systems
+CS591,1,Lizsl De Leon,Tue;Thu,Computer Science Research Colloquium
+CS593,4,Pierluigi Nuzzo,Mon;Wed,Mathematical Foundations for System Design: Modeling Analys
+CS599,2,Shahram Ghandeharizadeh,Mon;Wed,Special Topics
+CS611,4,Mahdi Soltanolkotabi,Mon;Wed,Mathematics of High-Dimensional Data
+CS612,4,Mahdi Soltanolkotabi,Mon;Wed,Optimization for the Information and Data Sciences
+CS651,4,John Heidemann,Mon;Wed,Advanced Computer Networking
+CS653,4,Aiichiro Nakano,Mon;Wed,High Performance Computing and Simulations
+CS658,3,Moe Tabar,Saturday,Diagnosis and Design of Reliable Digital Systems
+CS659,4,Haipeng Luo,Thursday,Introduction to Online Optimization
+CS662,4,Jonathan May,Mon;Wed,Advanced Natural Language Processing
+CS670,4,David Kempe,Mon;Wed,Advanced Analysis of Algorithms
+CS677,4,Ram Nevatia,Tue;Thu,Advanced Computer Vision
+CS697,1,Maja Mataric,Monday,Seminar in Computer Science Research
+CS698,1,Laurent Itti,Monday,Practicum in Teaching Computer Science
+CS699,2,Swabha Swayamdipta,Mon;Wed,Special Topics

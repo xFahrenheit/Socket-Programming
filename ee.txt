@@ -1,0 +1,70 @@
+EE105,4,Armand Tanguay,Tue;Thu,Introduction to Electrical Engineering
+EE109,4,Gandhi Puvvada,Tue;Thu,Introduction to Embedded Systems
+EE141,4,Antonio Ortega,Mon;Wed,Applied Linear Algebra for Engineering
+EE155,4,Sandeep Gupta,Mon;Wed,Introduction to Computer Programming for Electrical Engineers
+EE202,4,Susan Schober,Tue;Thu,Linear Circuits
+EE250,4,Mark Redekopp,Mon;Wed,Distributed Systems for the Internet of Things
+EE301,4,Chris Kyriakakis,Mon;Wed,Linear Systems
+EE338,4,Stephen Cronin,Tue;Thu,Physical Electronics
+EE348,4,Susan Schober,MWF,Electronic Circuits
+EE354,4,Gandhi Puvvada,Mon;Wed,Introduction to Digital Circuits
+EE364,4,Brandon Franzke,Tue;Thu,Introduction to Probability and Statistics for Electrical Engineering and Computer Science
+EE370,4,Aluizio Prata,Tue;Thu,Electromagnetics for Engineering Systems
+EE443,4,Mohammed Beshir,Thursday,Introduction to Power Systems
+EE444,4,Mohammed Beshir,Monday,Power Systems Technology
+EE445,4,Heather Culbertson,Tue;Thu,Introduction to Robotics
+EE450,4,Ali Zahid,Tue;Thu,Introduction to Computer Networks
+EE451,4,Viktor Prasanna,Tue;Thu,Parallel and Distributed Computation
+EE454,4,Shahin Nazarian,Mon;Wed,Introduction to System-on-Chip
+EE455,4,Claire Bono,Tue;Thu,Introduction to Programming Systems Design
+EE457,4,Gandhi Puvvada,Tue;Thu,Computer Systems Organization
+EE471,4,Stephen Cronin,Tue;Thu,Applied Quantum Mechanics for Engineers
+EE477,4,Shahin Nazarian,Mon;Wed,MOS VLSI Circuit Design
+EE482,4,Somil Bansal,Mon;Wed,Linear Control Systems
+EE483,4,Justin Haldar,Tue;Thu,Introduction to Digital Signal Processing
+EE490,1,Richard Leahy,TBA,Directed Research
+EE494,2,Michelle Povinelli,TBA,Undergraduate Thesis
+EE499,2,Chris Kyriakakis,Tuesday,Special Topics
+EE503,4,Richard Leahy,Friday,Probability for Electrical and Computer Engineers
+EE506,4,Tony Levi,Tue;Thu,Semiconductor Physics
+EE510,4,George Papavassilopoulos,Tue;Thu,Linear Algebra for Engineering
+EE512,4,Osonde Osoba,Friday,Stochastic Processes for Financial Engineering
+EE516,4,Mohammed Beshir,Wednesday,High-Voltage DC Transmission Systems
+EE518,4,George Papavassilopoulos,Mon;Wed,Mathematics and Tools for Financial Engineering
+EE520,4,Todd Brun,Tue;Thu,Introduction to Quantum Information Processing
+EE525,4,Vibhor Trehan,Thursday,Power System Protection
+EE528,4,Jason Sanders,Tue;Thu,Power Electronics
+EE529,4,Armand Tanguay,Tue;Thu,Optics
+EE534,4,Anupam Madhukar,Tue;Thu,Materials Characterization
+EE536,4,Hossein Hashemi,Mon;Wed,Analog Integrated Circuits
+EE537,4,Chongwu Zhou,Tue;Thu,Modern Solid-State Devices
+EE538,2,Arash Saifhashemi,Friday,Computing Principles for Electrical Engineers
+EE539,4,Michelle Povinelli,Tue;Thu,Engineering Quantum Mechanics
+EE541,2,Brandon Franzke,Monday,A Computational Introduction to Deep Learning
+EE542,4,Young Cho,Mon;Wed,Internet and Cloud Computing
+EE546,4,Mahdi Soltanolkotabi,Mon;Wed,Mathematics of High-Dimensional Data
+EE547,2,Brandon Franzke,Tuesday,Applied and Cloud Computing for Electrical Engineers
+EE554,4,Paul Bogdan,Mon;Wed,Cyber-Physical Systems: A Computing Perspective
+EE555,3,Ali Zahid,Tue;Thu,Broadband Network Architectures
+EE557,4,John Paul Walters,Tue;Thu,Computer Systems Architecture
+EE561,4,Wei-Min Shen,Wednesday,Foundations of Artificial Intelligence
+EE562,4,Michael Neely,Mon;Wed,Random Processes in Engineering
+EE577,4,Sridhar Narayanan,Friday,VLSI System Design
+EE577,4,Moe Tabar,Saturday,VLSI System Design
+EE581,4,Pierluigi Nuzzo,Mon;Wed,Mathematical Foundations for System Design: Modeling Analys
+EE582,4,Shuo-Wei Chen,Mon;Wed,CMOS:Nano Neuromorphic Circuits
+EE585,4,Mihailo Jovanovic,Tue;Thu,Linear System Theory
+EE588,4,Mahdi Soltanolkotabi,Mon;Wed,Optimization for the Information and Data Sciences
+EE590,1,Richard Leahy,TBA,Directed Research
+EE593,4,Edmond Jonckheere,Tue;Thu,Robust Multivariable Control
+EE598,1,Pierluigi Nuzzo,Wednesday,Electrical Engineering Research Seminar
+EE599,1,Feifei Qian,Tue;Thu,Special Topics
+EE604,4,Wade Hsu,Mon;Wed,Computational Methods in Applied Physics
+EE608,4,Eun Kim,Monday,Wearable Technology
+EE641,2,Brandon Franzke,Wednesday,Deep Learning Systems
+EE658,3,Moe Tabar,Saturday,Diagnosis and Design of Reliable Digital Systems
+EE660,4,Keith Jenkins,Tue;Thu,Machine Learning II: Mathematical Foundations and Methods
+EE669,4,Jay Kuo,Mon;Wed,Multimedia Data Compression
+EE676,4,Ram Nevatia,Tue;Thu,Advanced Computer Vision
+EE690,1,Tony Levi,TBA,Directed Research
+EE790,1,Richard Leahy,TBA,Research
